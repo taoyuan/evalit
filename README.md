@@ -1,4 +1,4 @@
 evalit
 ======
 
-Javascript library for evaluation of functional expressions
+Javascript library for evaluation of functional expressions.
