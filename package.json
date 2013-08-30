@@ -1,0 +1,32 @@
+{
+  "name": "evalit",
+  "version": "0.0.1",
+  "description": "Javascript library for evaluation of functional expressions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/taoyuan/evalit.git"
+  },
+  "keywords": [
+    "eval",
+    "evaluate",
+    "evaluation",
+    "evaluator",
+    "expression"
+  ],
+  "author": "Tao Yuan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taoyuan/evalit/issues"
+  },
+  "dependencies": {
+    "esprima": "~1.0.4"
+  },
+  "devDependencies": {
+    "chai": "~1.7.2",
+    "mocha": "~1.12.1"
+  }
+}
